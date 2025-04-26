@@ -37,7 +37,7 @@ Top Director: Unknown
 Average Movie Duration: 108 minutes
 
 TV Shows mostly have 2 minutes on average
-![Netflix Dashboard Overview](images/netflix_dashboard_overview.png)
+
 
 Conclusion
 
