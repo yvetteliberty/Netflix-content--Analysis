@@ -37,6 +37,8 @@ Power BI (Data cleaning and proprocessing ,Data modeling, DAX , and Visualizatio
 - Average Movie Duration: 108 minutes
 
 - TV Shows mostly have 2 minutes on average
+ ## Dashboard
+ ![](https://github.com/yvetteliberty/Netflix-content--Analysis/blob/main/netflix%20page1.PNG)
 
 
 # Conclusion
